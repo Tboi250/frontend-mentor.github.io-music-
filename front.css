@@ -1,0 +1,90 @@
+body{
+    font-family: 'Josefin Sans', sans-serif;
+    background-color: hsl(225, 100%, 94%);
+    
+    margin: 20px 450px;
+}
+
+.card{
+    background: white;
+    padding-bottom: 35px;
+    
+    border: 0px rgb(249, 248, 248) solid;
+    box-shadow: -1px 1px 30px -4px rgba(128,125,125,1);
+-webkit-box-shadow: -1px 1px 30px -4px rgba(128,125,125,1);
+-moz-box-shadow: -1px 1px 30px -4px rgba(128,125,125,1);
+    border-radius: 10px;
+}
+.text{
+    
+    padding: 0px 70px;
+    text-align: center;
+}
+.text p{
+    line-height: 1.5em;
+
+}
+
+.img1{
+    width: 99.5%;
+    border: 1px solid hsl(223, 90%, 36%);
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+}
+
+.card1{
+    background-color: rgb(250, 246, 246);
+    margin: 10px 60px;
+    padding: 5px 20px;
+    border-radius: 10px;
+}
+
+.dum{
+    
+    font-size: 9px;
+    display: flex;
+    align-items: center;
+    
+}
+
+
+.txt{
+    margin: 0px 20px;
+    
+}
+.txt p{
+    font-size: 13px;
+    margin-top: -5px;
+}
+
+.an{
+   color: rgb(42, 42, 213);
+    margin-left:50px;
+    font-size: 14px;
+}
+
+.btn{
+    color: white;
+    border: none;
+    border-radius: 10px;
+    padding: 13px 102px ;
+    background-color: rgb(42, 42, 213);
+    margin: 15px 62px;
+    box-shadow: -1px 1px 30px -4px rgba(128,125,125,1);
+    -webkit-box-shadow: -1px 1px 30px -4px rgba(128,125,125,1);
+    -moz-box-shadow: -1px 1px 30px -4px rgba(128,125,125,1);
+}
+.as{
+    color: rgb(148, 148, 148);
+    text-decoration: none;
+    font-weight: 700;
+  margin: 100px 170px;
+}
+
+.as:hover{
+    color: black;
+}
+
+.btn:hover{
+    background-color:rgb(112, 46, 245) ;
+}
